@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="Ig.news Preview" src="https://extras.niltonizaguirres.com/assets/projects/ig-news.png" />
+    <img alt="Ig.news Preview" src="https://ni.solytcompany.com/assets/images/ig.news.png" />
 </h1>
 
 
